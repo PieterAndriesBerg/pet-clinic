@@ -9,6 +9,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class PetClinicApplicationTests {
 
+/**
+ * Created by Pieter-Andries van der Berg on 05-12-18
+**/
+
     @Test
     public void contextLoads() {
     }
