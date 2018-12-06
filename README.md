@@ -1,2 +1,2 @@
 # pet-clinic
-Spring Framework Pet Clinic Application
+Spring Framework com.pieterandriesberg.petclinic.model.Pet Clinic Application
