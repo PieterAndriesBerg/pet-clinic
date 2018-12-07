@@ -4,7 +4,7 @@ package com.pieterandriesberg.petclinic.model;
  * Created by pieterandries on 6-12-18
  **/
 
-public class Person {
+public class Person extends BaseEntity {
 
     private String firstName;
     private String lastName;
