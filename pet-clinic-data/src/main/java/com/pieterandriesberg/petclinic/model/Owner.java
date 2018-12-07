@@ -5,4 +5,5 @@ package com.pieterandriesberg.petclinic.model;
  **/
 
 public class Owner extends Person {
+//owner pojo
 }

@@ -5,7 +5,7 @@ package com.pieterandriesberg.petclinic.model;
  **/
 
 public class Person extends BaseEntity {
-
+//person pojo
     private String firstName;
     private String lastName;
 

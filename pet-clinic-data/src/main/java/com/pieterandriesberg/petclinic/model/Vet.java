@@ -5,4 +5,6 @@ package com.pieterandriesberg.petclinic.model;
  **/
 
 public class Vet extends Person {
+//vet pojo
+
 }
